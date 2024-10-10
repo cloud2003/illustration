@@ -1,4 +1,4 @@
-# Dock-menu like macOs
+# MacOs like dock-menu 
 
 Проект собран через [Create React App](https://github.com/facebook/create-react-app).
 
